@@ -10,4 +10,12 @@ database - two types :
 		NoSQL
 
 		*mongoDB
+now do frameworks and library
+eg: React 
 
+typescript
+Networking 
+cloud - AWS, google cloud
+docker 
+Security 
+ 
