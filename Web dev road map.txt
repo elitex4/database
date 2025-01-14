@@ -1,0 +1,13 @@
+HTML (basic)
+CSS (Intermediate)(Front END doesn't matter for the dev jam)
+JS 
+DOM??
+Fetch and Async code 
+terminal + git,github
+node.js for the back end + npm
+database - two types :
+		SQL
+		NoSQL
+
+		*mongoDB
+
